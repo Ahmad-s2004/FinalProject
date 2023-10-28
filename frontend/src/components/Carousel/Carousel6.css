@@ -1,0 +1,23 @@
+.color{
+    background-color: #fceaf9!important;
+    /* background-color: blue; */
+  }
+  .font-mont{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .fnt-bold{
+    font-weight: 600;
+  }
+  .fnt-normal{
+    font-weight: normal;
+  }
+  .h8{
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .h9{
+    font-size: 13px;
+  }
+  .h10{
+    font-size: 11px;
+  }
